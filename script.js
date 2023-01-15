@@ -7,7 +7,7 @@ const footer = document.querySelector(".footer");
 
 var elem = null;
 let todos = [
-  { value: "Complete online javascript course", checked: true },
+  { value: "Complete online Javascript course", checked: true },
   { value: "Jog around the park 3x", checked: false },
   { value: "10 minute meditation", checked: false },
   { value: "Read for 1 hour", checked: false },
