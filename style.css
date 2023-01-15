@@ -290,7 +290,7 @@ main {
   }
   .todo {
     grid-template-columns: 5% auto 5%;
-    /* padding: 10px 5px; */
+    padding: 10px 5px;
   }
   .todo span {
     text-align: right;
@@ -301,4 +301,7 @@ main {
 }
 .my-name span{
   font-style: italic;
+}
+.my-name a{
+  text-decoration: none;
 }
