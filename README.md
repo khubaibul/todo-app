@@ -2,7 +2,7 @@
 
 ### Live Link: https://kishakib.github.io/todo-app
 
-"./images/project-preview.jpg";
+![Alt text](images/project-preview.jpg)
 
 ### Technology
 
