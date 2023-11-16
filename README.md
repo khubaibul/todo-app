@@ -1,6 +1,6 @@
 # Daily Schedule App
 
-### Live Link: https://kishakib.github.io/todo-app
+### Live Link: https://khubaibul.github.io/todo-app
 
 ![Alt text](images/project-preview.jpg)
 
